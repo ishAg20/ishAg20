@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishika</h1>
-<h3 align="center">A tech enthusias and relentless problem-solver</h3>
+<h3 align="center">A tech enthusiast and relentless problem-solver</h3>
 
 - 🌱 I’m currently learning **ReactJs, NextJs and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishAg20](https://github.com/ishAg20)
 
-- 💬 Ask me about **FrontEnd WebDev, DSA (c, C++, Python, Java)**
+- 💬 Ask me about **FrontEnd WebDev, DSA (C, C++, Python, Java)**
 
 - 📫 How to reach me **ishikaaaagarwal20@gmail.com**
 
