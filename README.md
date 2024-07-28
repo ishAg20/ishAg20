@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **FrontEnd WebDev, DSA (C, C++, Python, Java)**
 
-- 📫 How to reach me **ishikaaaagarwal20@gmail.com**
+- 📫 How to reach me **agarwalishika2012@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
