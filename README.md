@@ -1,9 +1,6 @@
 # Hi 👋, I'm Ishika
 
-A passionate knowledge seeker and relentless problem-solver, I want to push the boundaries of technology, and leave a lasting positive impact on society.
-
 - 👨‍💻 All of my projects are available at [https://github.com/ishAg20](https://github.com/ishAg20)
-- 💬 Ask me about **FullStack Web Development and DSA.**
 - 📫 How to reach me: **agarwalishika2012@gmail.com**
 
 ## Tech Stack:
